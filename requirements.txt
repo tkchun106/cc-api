@@ -1,0 +1,5 @@
+Flask
+flask-restful
+requests
+requests_cache
+cassandra-driver
